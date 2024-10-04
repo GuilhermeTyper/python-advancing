@@ -3,7 +3,7 @@
 
 ## Descrição
 
-Esse repositório tem como objetivo, influenciar novos programadores que buscam se aprofundar na linguagem python, contendo conceitos e scripts do iniciante ao avançado.:snake:
+Esse repositório tem como objetivo, influenciar novos programadores que buscam se aprofundar na linguagem python, contendo conceitos e scripts do iniciante ao avançado. :snake:
 
 ## Conteúdo
 - PROGRAMAÇÃO FUNCIONAL
